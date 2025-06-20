@@ -4,7 +4,7 @@ There are [many](https://github.com/orgs/OWASP/repositories?language=&q=top+10+s
 
 Please note that this is NOT an OWASP project - its just a bit of fun 😁
 
-This list was created manually and so will become out ouf date. I'll update it as and when .. maybe ..
+This list was created manually and so will become out of date. I'll update it as and when .. maybe ..
 
 | # | Repo | Last Commit | Committers | Stars |
 | --- | --- | --- | --- | --- |
